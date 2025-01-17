@@ -1,0 +1,58 @@
+@model Book  
+
+<h4>Güncelleme</h4>
+
+  
+
+
+<form asp-controller="Book" asp-action="Update" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="BookId">
+    <div class="mb-3">
+        <label asp-for="ISBN" class="form-label"></label>
+        <input asp-for="ISBN" class="form-control">
+        
+    </div>
+    <div class="mb-3">
+        <label asp-for="BookName" class="form-label"></label>
+        <input asp-for="BookName" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Author" class="form-label"></label>
+        <input asp-for="Author" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Publisher" class="form-label"></label>
+        <input asp-for="Publisher" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="PublicationYear" class="form-label"></label>
+        <input asp-for="PublicationYear" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Genre" class="form-label"></label>
+        <input asp-for="Genre" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Pages" class="form-label"></label>
+        <input asp-for="Pages" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Language" class="form-label"></label>
+        <input asp-for="Language" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <input asp-for="Description" class="form-control">
+    </div>
+    <div class="mb-3 input-group">
+        <input type="file" name="imageFile" id="ImageFile" class="form-control">
+        <span asp-validation-for="Image"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="IsAvailable" class="form-label"></label>
+        <input asp-for="IsAvailable" class="form-check-label" type="checkbox" >
+            
+    </div>
+
+    <button type="submit" class="btn btn-outline-secondary">Kaydet</button>
+</form>

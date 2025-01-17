@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Book>
+
+
+<h3>Kitaplar</h3>
+<hr>
+
+
+<div class="row">
+    
+    @foreach(var book in Model)
+    {
+        @if(book.IsAvailable == true)
+        {
+            <div class="col-md-4 mb-4">
+                    <div class="card" style="width: 15rem;">
+                        <img src="~/img/@book.Image" class="card-img-top img-fluid " alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">@book.BookName</h5>
+                            <p class="card-text">@book.Description</p>
+                            <a href="#" class="card-link">Detay Gör</a>                      
+                       </div>
+                    </div>
+            </div>
+        }
+        
+    }
+</div>
+
+    

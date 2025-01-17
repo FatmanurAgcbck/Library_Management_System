@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LibraryMS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LibraryMS.dj1rmcm00x.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\00e8cfec-78f9-446a-b6b0-7ade7c2cf21d.jpg",
+      "PackagePath": "staticwebassets\\img\\00e8cfec-78f9-446a-b6b0-7ade7c2cf21d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\0604fc53-e575-4b28-9a40-c5bedbeaf248.jpg",
+      "PackagePath": "staticwebassets\\img\\0604fc53-e575-4b28-9a40-c5bedbeaf248.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\211b3518-7eb5-4a6d-9239-aac0b4f01fbc.jpg",
+      "PackagePath": "staticwebassets\\img\\211b3518-7eb5-4a6d-9239-aac0b4f01fbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\2e0e29a1-c056-4ed3-8558-c324b96bfccb.jpg",
+      "PackagePath": "staticwebassets\\img\\2e0e29a1-c056-4ed3-8558-c324b96bfccb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\427f12ac-f30c-4021-93c9-b65c929bf5df.jpg",
+      "PackagePath": "staticwebassets\\img\\427f12ac-f30c-4021-93c9-b65c929bf5df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\430960b7-666a-4be8-9c2b-19df9a48fd28.jpg",
+      "PackagePath": "staticwebassets\\img\\430960b7-666a-4be8-9c2b-19df9a48fd28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\47ff9383-0a4f-46e5-9c27-81b4fea60c63.jpg",
+      "PackagePath": "staticwebassets\\img\\47ff9383-0a4f-46e5-9c27-81b4fea60c63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\5b9197a7-8a68-4b4e-a3a2-16345c829fc7.jpg",
+      "PackagePath": "staticwebassets\\img\\5b9197a7-8a68-4b4e-a3a2-16345c829fc7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\5bbea7ab-98bf-4902-be9e-e407f5b23813.jpg",
+      "PackagePath": "staticwebassets\\img\\5bbea7ab-98bf-4902-be9e-e407f5b23813.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\60b9e735-3362-46c9-990a-2aef8978a6bc.jpg",
+      "PackagePath": "staticwebassets\\img\\60b9e735-3362-46c9-990a-2aef8978a6bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\6ffcb113-19f8-481a-a5ce-06c529628ff6.jpg",
+      "PackagePath": "staticwebassets\\img\\6ffcb113-19f8-481a-a5ce-06c529628ff6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\77c86438-a687-4748-b6ac-29f9f6f1bfea.jpg",
+      "PackagePath": "staticwebassets\\img\\77c86438-a687-4748-b6ac-29f9f6f1bfea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\77dc27b7-1c3f-44b3-b34b-1d707a65cc26.jpg",
+      "PackagePath": "staticwebassets\\img\\77dc27b7-1c3f-44b3-b34b-1d707a65cc26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\82f9f20b-208a-46a5-82cc-dbf69881067c.jpg",
+      "PackagePath": "staticwebassets\\img\\82f9f20b-208a-46a5-82cc-dbf69881067c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\874424bb-588a-4275-b56d-d0bbb47ca292.png",
+      "PackagePath": "staticwebassets\\img\\874424bb-588a-4275-b56d-d0bbb47ca292.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\876dfe74-021e-486d-ae71-aaddd2a1dc2e.jpg",
+      "PackagePath": "staticwebassets\\img\\876dfe74-021e-486d-ae71-aaddd2a1dc2e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\8ffb6fe3-f525-4c8b-ba5a-d7b6ad328f48.jpg",
+      "PackagePath": "staticwebassets\\img\\8ffb6fe3-f525-4c8b-ba5a-d7b6ad328f48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\97f66dae-c6e5-4c71-803e-1893958a7833.jpg",
+      "PackagePath": "staticwebassets\\img\\97f66dae-c6e5-4c71-803e-1893958a7833.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\9808f9a2-a8c4-4a73-b148-0f0c0283e233.jpg",
+      "PackagePath": "staticwebassets\\img\\9808f9a2-a8c4-4a73-b148-0f0c0283e233.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\9924da4a-fc80-4479-919d-7ef8f86772f5.jpg",
+      "PackagePath": "staticwebassets\\img\\9924da4a-fc80-4479-919d-7ef8f86772f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\9aa53262-1fe8-41a3-9411-4b3013226ef3.jpg",
+      "PackagePath": "staticwebassets\\img\\9aa53262-1fe8-41a3-9411-4b3013226ef3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\9e8e28de-635b-4bb1-8e18-4eefae538b37.jpg",
+      "PackagePath": "staticwebassets\\img\\9e8e28de-635b-4bb1-8e18-4eefae538b37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\9ebd2233-6da9-44f5-a59e-f0ee7496b3f8.jpg",
+      "PackagePath": "staticwebassets\\img\\9ebd2233-6da9-44f5-a59e-f0ee7496b3f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\a2dbc415-ac33-48a5-80fa-1a5fda94e587.jpg",
+      "PackagePath": "staticwebassets\\img\\a2dbc415-ac33-48a5-80fa-1a5fda94e587.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\a7e6029f-9faa-43b2-b387-cc7c95cdaff0.jpg",
+      "PackagePath": "staticwebassets\\img\\a7e6029f-9faa-43b2-b387-cc7c95cdaff0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\af3255c4-ed24-42a8-8e06-bbbb3363dc06.jpg",
+      "PackagePath": "staticwebassets\\img\\af3255c4-ed24-42a8-8e06-bbbb3363dc06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\af404b2c-ec73-4263-a861-7b432f0e42a3.jpg",
+      "PackagePath": "staticwebassets\\img\\af404b2c-ec73-4263-a861-7b432f0e42a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\c13ca77c-a226-4589-aa76-389f93cf82ee.jpg",
+      "PackagePath": "staticwebassets\\img\\c13ca77c-a226-4589-aa76-389f93cf82ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\cef95c25-2a63-4826-9a6a-8be663d9fe74.jpg",
+      "PackagePath": "staticwebassets\\img\\cef95c25-2a63-4826-9a6a-8be663d9fe74.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\d2985e44-fb7a-481f-8586-ee7e9a09034d.png",
+      "PackagePath": "staticwebassets\\img\\d2985e44-fb7a-481f-8586-ee7e9a09034d.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\d70a45fe-39c9-434e-af24-7c4619b13d12.jpg",
+      "PackagePath": "staticwebassets\\img\\d70a45fe-39c9-434e-af24-7c4619b13d12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\img\\e211c041-93ef-471f-81fc-b0e368bfbff6.jpg",
+      "PackagePath": "staticwebassets\\img\\e211c041-93ef-471f-81fc-b0e368bfbff6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.LibraryMS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.LibraryMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.LibraryMS.props",
+      "PackagePath": "build\\LibraryMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryMS.props",
+      "PackagePath": "buildMultiTargeting\\LibraryMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.LibraryMS.props",
+      "PackagePath": "buildTransitive\\LibraryMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

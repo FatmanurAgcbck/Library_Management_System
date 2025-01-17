@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Book>
+
+
+
+<h3>Kitap Düzenleme</h3>
+<a asp-controller="Book" asp-action="Create" class="btn btn-outline-info">Yeni Kitap Girişi</a>
+<hr>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th style="width: 50px">@Html.DisplayNameFor(b=>b.BookId)</th>
+            <th>@Html.DisplayNameFor(b=>b.Image)</th>
+            <th>@Html.DisplayNameFor(b=>b.ISBN)</th>
+            <th>@Html.DisplayNameFor(b=>b.BookName)</th>
+            <th>@Html.DisplayNameFor(b=>b.Author)</th>
+            <th>@Html.DisplayNameFor(b=>b.Publisher)</th>
+            <th>@Html.DisplayNameFor(b=>b.PublicationYear)</th>
+            <th>@Html.DisplayNameFor(b=>b.Pages)</th>
+            <th>@Html.DisplayNameFor(b=>b.Genre)</th>
+            <th>@Html.DisplayNameFor(b=>b.Language)</th>
+            <th>@Html.DisplayNameFor(b=>b.Description)</th>
+            <th>@Html.DisplayNameFor(b=>b.IsAvailable)</th>
+            <th style="width: 150px; ">Ayarlar</th>
+        </tr>
+    </thead>
+        @foreach(var book in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => book.BookId)</td>
+                <td><img src="~/img/@book.Image" ></td>
+                <td>@Html.DisplayFor(modelItem => book.ISBN)</td>
+                <td>@Html.DisplayFor(modelItem => book.BookName)</td>
+                <td>@Html.DisplayFor(modelItem => book.Author)</td>
+                <td>@Html.DisplayFor(modelItem => book.Publisher)</td>
+                <td>@Html.DisplayFor(modelItem => book.PublicationYear)</td>
+                <td>@Html.DisplayFor(modelItem => book.Pages)</td>
+                <td>@Html.DisplayFor(modelItem => book.Genre)</td>
+                <td>@Html.DisplayFor(modelItem => book.Language)</td>
+                <td>@Html.DisplayFor(modelItem => book.Description)</td>
+                <td>@Html.DisplayFor(modelItem => book.IsAvailable)</td>
+                <td>
+                    <a asp-controller="Book" asp-action="Update" asp-route-id="@book.BookId" class="btn btn-sm btn-warning">Düzenle</a>
+                    <a asp-controller="Book" asp-action="Delete" asp-route-id="@book.BookId" class="btn btn-sm btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+</table>
+
+
