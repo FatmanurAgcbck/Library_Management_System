@@ -1,5 +1,7 @@
 ﻿@model IEnumerable<Book>
 
+<!-- Bu Razor View dosyası, bir kitap koleksiyonunu görüntüleyen ve yalnızca mevcut olan kitapları listeleyen bir sayfa oluşturur. -->
+
 
 <h3>Kitaplar</h3>
 <hr>
@@ -7,9 +9,9 @@
 
 <div class="row">
     
-    @foreach(var book in Model)
+    @foreach(var book in Model) //kitaplar dizisindeki her bir kitap üzerinde döngü başlatılır. 
     {
-        @if(book.IsAvailable == true) 
+        @if(book.IsAvailable == true)   //IsAvaible durumu true olan kitapları listeler 
         {
             <div class="col-md-4 mb-4">
                     <div class="card border-secondary mb-3" style="width: 18rem;">
@@ -17,7 +19,9 @@
                         <div class="card-body">
                             <h5 class="card-title">@book.BookName</h5>
                             <p class="card-text">@book.Author</p>
-                            <a href="~/Book/ShowDetails" class="card-link">Detay Gör</a>                      
+                            <a href="@Url.Action("ShowDetails", "Book", new { id = book.BookId })" class="btn btn-outline-info">Detay Gör</a>     <!-- Kitabın detaylarını görmek için yönlendiren buton. Butona tıklandığında, 
+                            kullanıcı Book controller'ındaki ShowDetails aksiyonuna yönlendirilir ve kitapla ilgili detaylı bilgilere ulaşır. 
+                            Yönlendirme sırasında, tıklanan kitapla ilişkili BookId parametresi de URL'ye eklenir, böylece doğru kitabın detayları görüntülenebilir. -->                 
                        </div>
                     </div>
             </div>

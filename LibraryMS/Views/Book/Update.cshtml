@@ -5,8 +5,9 @@
   
 
 
-<form asp-controller="Book" asp-action="Update" method="post" enctype="multipart/form-data">
-    <input type="hidden" asp-for="BookId">
+<form asp-controller="Book" asp-action="Update" method="post" enctype="multipart/form-data"> <!-- resim dosyası yüklemesi yapılacağı için multipart/form-data kullanılır-->
+    <input type="hidden" asp-for="BookId"> <!-- Kitap ID'si gizli olarak gönderiliyor.bu veri kullanıcıdan gizli olmalı ancak sunucuya iletilmesi gerekiyor -->
+    
     <div class="mb-3">
         <label asp-for="ISBN" class="form-label"></label>
         <input asp-for="ISBN" class="form-control">

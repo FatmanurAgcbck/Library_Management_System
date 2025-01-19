@@ -40,10 +40,26 @@ namespace LibraryMS.Controllers{
             
             return View(books);
         }
+
+        public async Task<IActionResult> ShowDetails(int id)
+        {
+            var book = await _context.Books.FirstOrDefaultAsync(b=>b.BookId == id); //id ye göre kitap bilgilerini getirir
+
+            if(book == null)
+            {
+                return NotFound();
+            }
+             return View(book);
+        }
+
+
+
         #endregion
 
         #region Ekleme
         //yeni kitap ekleme
+
+        // GET: Create formunu görüntüler 
         public IActionResult Create()
         {
             return View(); 
@@ -55,33 +71,36 @@ namespace LibraryMS.Controllers{
             var acceptedExtensions = new[] {".jpeg",".jpg",".png"};
             if(imageFile != null)
             {
-                var extensions = Path.GetExtension(imageFile.FileName).ToLowerInvariant();
+                var extensions = Path.GetExtension(imageFile.FileName).ToLowerInvariant(); //dosya uzantısını alır küçük harfe çevirir
 
-                if(!acceptedExtensions.Contains(extensions))
+                if(!acceptedExtensions.Contains(extensions)) //dosya formatı geçerli değilse hata mesajı döndürür
                 {
                     ModelState.AddModelError("","Yüklenen dosya geçerli bir resim formatı değil. Lütfen tekrar deneyin.");
                 }
                 else
-                {
+                {   //random bir dosya adı oluşturur
                     var randomFileName = string.Format($"{Guid.NewGuid().ToString()}{extensions}");
-                    var path = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/img",randomFileName);
+                    var path = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/img",randomFileName); // Dosyanın kaydedileceği tam yolu oluşturur. 
+                                                                                                           // `Directory.GetCurrentDirectory()` uygulamanın çalıştığı dizini alır, 
+                                                                                                           // ardından "wwwroot/img" dizinini ekler ve son olarak rastgele oluşturulmuş dosya adını (randomFileName) ekler. 
+
                     try{
-                        using(var stream = new FileStream(path, FileMode.Create)){
+                        using(var stream = new FileStream(path, FileMode.Create)){ //dosyayı belirtilen img klasörüne kaydeder
                             await imageFile.CopyToAsync(stream);
                         }
                         model.Image = randomFileName;
                     }
-                    catch{
+                    catch{ //dosya yüklenirken hata oluştuğunda hata mesajı verir
                         ModelState.AddModelError("","Dosya yüklenirken bir sorun yaşandı. Lütfen tekrar deneyin.");
                     }
                 }
             }
             else
             {
-                ModelState.AddModelError("","Resim seçilmedi.Lütfen bir resim seçiniz.");
+                ModelState.AddModelError("","Resim seçilmedi.Lütfen bir resim seçiniz."); //dosya seçilmediyse
             }
 
-
+            //modeli veritabanına ekler ve kaydeder
             _context.Books.Add(model);
             await _context.SaveChangesAsync();
             return RedirectToAction("BooksManagement");
@@ -96,11 +115,11 @@ namespace LibraryMS.Controllers{
         {
             if(id == null)
             {
-                return NotFound();
+                return NotFound(); //id boş işe 404 döner
             }
-            var book = await _context.Books.FindAsync(id);
+            var book = await _context.Books.FindAsync(id); //BookID'sine göre veritabanından kitap bilgisi alır
 
-            if(book == null){
+            if(book == null){ //kitap bulunamazsa 404 döner
                 return NotFound();
             }
             return View(book);
@@ -113,34 +132,34 @@ namespace LibraryMS.Controllers{
 
             if (id != model.BookId)
             {
-                return NotFound();
+                return NotFound(); //eğer modelin ID'si, URL'deki ID ile uyuşmazsa 404 döner
             }
 
             // Dosya yükleme işlemi
             if (imageFile != null)
             {
-                var fileName = $"{Guid.NewGuid()}{Path.GetExtension(imageFile.FileName)}";
-                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", fileName);
+                var fileName = $"{Guid.NewGuid()}{Path.GetExtension(imageFile.FileName)}"; //random dosya adı oluşturur
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", fileName); //resmin kaydedileceği klasör
 
                 using (var stream = new FileStream(path, FileMode.Create))
                 {
-                    await imageFile.CopyToAsync(stream);
+                    await imageFile.CopyToAsync(stream); //dosya kaydedilir
                 }
 
-                model.Image = fileName;
+                model.Image = fileName; //Book modelinin Image alanına dosya adı atanır
             }
 
             if (ModelState.IsValid)
             {
                 try
                 {
-                    _context.Update(model);
+                    _context.Update(model);  //kitap verisini günceller
                     await _context.SaveChangesAsync();
                     return RedirectToAction("BooksManagement");
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!_context.Books.Any(b => b.BookId == model.BookId))
+                    if (!_context.Books.Any(b => b.BookId == model.BookId)) //kitap veritabanında bulunamazsa, NotFound döndürülür
                     {
                         return NotFound();
                     }
@@ -174,10 +193,11 @@ namespace LibraryMS.Controllers{
         [HttpPost]
         public async Task<IActionResult> Delete([FromForm] int id)
         {
-            var book = await _context.Books.FindAsync(id);
+            var book = await _context.Books.FindAsync(id); //kitap ID'sine göre veritabanında kitap araması yapılır
+   
             if(book == null)
             {
-                return NotFound();
+                return NotFound(); //kitap bulunamazsa 404 döner
             }
             _context.Books.Remove(book);
             await _context.SaveChangesAsync();
@@ -186,9 +206,6 @@ namespace LibraryMS.Controllers{
         
         #endregion
 
-        public IActionResult ShowDetails(){
-            return View();
-        }
-
+        
     }
 }

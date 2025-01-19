@@ -1,11 +1,11 @@
 @model Book
-
-<p>
+<!-- bu razor view sayfası kitabı silmek için kullanıcıya onay sormak amacıyla oluşturulmuştur-->
+<p> <!-- Kitabın ISBN numarasını ve adını ekrana yazdırır. -->
     ISBN numarası <b>@Model.ISBN</b> olan 
     <b>@Model.BookName</b> adlı kitabı silmek istiyor musunuz?
 </p>
 
-<form asp-controller="Book" asp-action="Delete" method="post">
+<form asp-controller="Book" asp-action="Delete" method="post"> <!-- Silme işlemini gerçekleştiren POST metodunu çağırır. -->
     <input type="hidden" value="@Model.BookId" name="id">
     <button type="submit" class="btn btn-danger">EVET</button>
     <a asp-action="BooksManagement" class="btn btn-primary">HAYIR</a>

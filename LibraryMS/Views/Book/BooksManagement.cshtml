@@ -9,6 +9,7 @@
 <table class="table table-bordered">
     <thead>
         <tr>
+            <!-- Tablo başlıkları: Her başlık, kitap modelindeki bir özelliği temsil eder -->
             <th >@Html.DisplayNameFor(b=>b.BookId)</th>
             <th>@Html.DisplayNameFor(b=>b.Image)</th>
             <th>@Html.DisplayNameFor(b=>b.ISBN)</th>
@@ -27,6 +28,7 @@
         @foreach(var book in Model)
         {
             <tr>
+                <!-- kitap bilgilerini tablo satırlarında görüntüleme -->
                 <td>@Html.DisplayFor(modelItem => book.BookId)</td>
                 <td><img src="~/img/@book.Image" ></td>
                 <td>@Html.DisplayFor(modelItem => book.ISBN)</td>
