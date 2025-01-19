@@ -3085,11 +3085,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\LibraryMS.csproj",
+      "projectUniqueName": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\LibraryMS.csproj",
       "projectName": "LibraryMS",
-      "projectPath": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\LibraryMS.csproj",
+      "projectPath": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\LibraryMS.csproj",
       "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\obj\\",
+      "outputPath": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

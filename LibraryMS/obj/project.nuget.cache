@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZC364cCCHY=",
+  "dgSpecHash": "vcPSyOG1Kkg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatma\\Desktop\\Library_Management_System-main\\Library_Management_System-main\\LibraryManagementSystem\\LibraryMS\\LibraryMS.csproj",
+  "projectFilePath": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\LibraryMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatma\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\fatma\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

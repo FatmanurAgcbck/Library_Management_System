@@ -32,7 +32,10 @@ namespace LibraryMS.Controllers{
             //search işlemi
             if(!String.IsNullOrEmpty(search))
             { 
-               books = books.Where(p=>p.BookName.ToLower().Contains(search)).ToList();
+                //yazar adı ve kitap adına göre arama yapabilme
+               books = books.Where(p=>p.BookName.ToLower().Contains(search) ||  p.Author.ToLower().Contains(search)).ToList();
+               //Contains ==> alt dizede arar içeriyorsa true döndürür 
+               
             }
             
             return View(books);
@@ -183,7 +186,9 @@ namespace LibraryMS.Controllers{
         
         #endregion
 
-
+        public IActionResult ShowDetails(){
+            return View();
+        }
 
     }
 }

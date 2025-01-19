@@ -17,53 +17,57 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryMS
 build_property.RootNamespace = LibraryMS
-build_property.ProjectDir = C:\Users\fatma\Desktop\Library_Management_System-main\Library_Management_System-main\LibraryManagementSystem\LibraryMS\
+build_property.ProjectDir = C:\Users\fatma\Desktop\Proje\Library_Management_System\LibraryMS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\fatma\Desktop\Library_Management_System-main\Library_Management_System-main\LibraryManagementSystem\LibraryMS
+build_property.MSBuildProjectDirectory = C:\Users\fatma\Desktop\Proje\Library_Management_System\LibraryMS
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/Book/BooksManagement.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Book/BooksManagement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xCb29rc01hbmFnZW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/Book/Create.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Book/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/Book/Delete.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Book/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/Book/Index.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Book/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/Book/Update.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Book/ShowDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xTaG93RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Book/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/Shared/Error.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/_ViewImports.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/_ViewStart.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatma/Desktop/Library_Management_System-main/Library_Management_System-main/LibraryManagementSystem/LibraryMS/Views/Shared/_Layout.cshtml]
+[C:/Users/fatma/Desktop/Proje/Library_Management_System/LibraryMS/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6sfdku0jb6

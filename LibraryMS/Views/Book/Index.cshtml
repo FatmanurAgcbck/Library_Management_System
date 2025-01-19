@@ -9,15 +9,15 @@
     
     @foreach(var book in Model)
     {
-        @if(book.IsAvailable == true)
+        @if(book.IsAvailable == true) 
         {
             <div class="col-md-4 mb-4">
-                    <div class="card" style="width: 15rem;">
-                        <img src="~/img/@book.Image" class="card-img-top img-fluid " alt="...">
+                    <div class="card border-secondary mb-3" style="width: 18rem;">
+                        <img src="~/img/@book.Image" class="card-img-top img-thumbnail ">
                         <div class="card-body">
                             <h5 class="card-title">@book.BookName</h5>
-                            <p class="card-text">@book.Description</p>
-                            <a href="#" class="card-link">Detay Gör</a>                      
+                            <p class="card-text">@book.Author</p>
+                            <a href="~/Book/ShowDetails" class="card-link">Detay Gör</a>                      
                        </div>
                     </div>
             </div>
