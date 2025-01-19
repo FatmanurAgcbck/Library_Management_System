@@ -130,11 +130,6 @@ namespace LibraryMS.Controllers{
         public async Task<IActionResult> Update(int id, Book model, IFormFile? imageFile)
         {
 
-            if (id != model.BookId)
-            {
-                return NotFound(); //eğer modelin ID'si, URL'deki ID ile uyuşmazsa 404 döner
-            }
-
             // Dosya yükleme işlemi
             if (imageFile != null)
             {
