@@ -5,29 +5,28 @@ Sayfa, kitabın görseli, adı, yazarı, açıklaması ve diğer bilgilerini iç
 
 
 <hr>
-    <div class="container text-center">
+    <div class="container-md text-center">
         <div class="row">
-            <div class="col-4 mt-5">
-            <img src="~/img/@Model.Image" style="width: 300px; border-style: solid; box-shadow: 1px 1px 10px 2px ;">
+            <div class="col-md-4 mt-5 ">
+            <img src="~/img/@Model.Image" style="width: 100%; border-style: solid; box-shadow: 1px 1px 10px 2px ;">
             </div>
-            <div class="col-8" >
-                <h2 class="mt-5" ><b>@Model.BookName</b></h2>
+            <div class="col-md-8 mt-5" >
+                <h2><b>@Model.BookName</b></h2>
                 <h5>@Model.Author</h5>
                 <br>
                 <p style="font-size: 18px; margin-top: 10px;">@Model.Description</p>
                 
                 
-                <div style="position: absolute:absolute; margin-top:100px">
-                    <hr>
-                    <ul style="list-style-type: none; margin: 0; padding: 0; text-align: left; ">
-                        <li>Yayınevi: @Model.Publisher</li>
-                        <li>Basım Yılı: @Model.PublicationYear</li>
-                        <li>Tür: @Model.Genre</li>
-                        <li>Dil: @Model.Language</li>
-                        <li>Sayfa Sayısı: @Model.Pages</li>
-                        <li>ISBN: @Model.ISBN</li>
-                    </ul>
-                </div>
+                <br>
+                <hr>
+                <ul style="list-style-type: none; margin: 0; padding: 0; text-align: left; margin-top: 170px;">
+                    <li>Yayınevi: @Model.Publisher</li>
+                    <li>Basım Yılı: @Model.PublicationYear</li>
+                    <li>Tür: @Model.Genre</li>
+                    <li>Dil: @Model.Language</li>
+                    <li>Sayfa Sayısı: @Model.Pages</li>
+                    <li>ISBN: @Model.ISBN</li>
+                </ul>
             </div>
         </div>
     </div>
