@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5u1Cihf2cnOlGacaNtMPRSm/DgZYy35/QROH0gMfVa0=",
+  "Hash": "GYCs5kMsU63O1qrAjjLCdMLt0Vwk/fPz3eCHa8jsQBk=",
   "Source": "LibraryMS",
   "BasePath": "_content/LibraryMS",
   "Mode": "Default",
@@ -1550,27 +1550,6 @@
       "OriginalItemSpec": "wwwroot\\img\\30a66094-8726-400a-a61d-419545ee77b4.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\4bd06f98-2bed-4013-ade1-f5a928986e64.jpg",
-      "SourceId": "LibraryMS",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\",
-      "BasePath": "_content/LibraryMS",
-      "RelativePath": "img/4bd06f98-2bed-4013-ade1-f5a928986e64#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ya3cmlnkxv",
-      "Integrity": "ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\4bd06f98-2bed-4013-ade1-f5a928986e64.jpg"
-    },
-    {
       "Identity": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\50a24f7c-282b-43d5-a501-2a85b5f134e2.jpg",
       "SourceId": "LibraryMS",
       "SourceType": "Discovered",
@@ -1695,6 +1674,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\a7cd79cf-e791-467f-82f1-636a6bbc58b2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\d232802b-68c0-4043-8f4a-c031a8e82498.jpg",
+      "SourceId": "LibraryMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\",
+      "BasePath": "_content/LibraryMS",
+      "RelativePath": "img/d232802b-68c0-4043-8f4a-c031a8e82498#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ya3cmlnkxv",
+      "Integrity": "ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\d232802b-68c0-4043-8f4a-c031a8e82498.jpg"
     },
     {
       "Identity": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\df864c16-d4ac-4237-a5da-5ab6653fff35.jpg",
@@ -4007,88 +4007,6 @@
       ]
     },
     {
-      "Route": "img/4bd06f98-2bed-4013-ade1-f5a928986e64.jpg",
-      "AssetFile": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\4bd06f98-2bed-4013-ade1-f5a928986e64.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13941"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 13:08:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s="
-        }
-      ]
-    },
-    {
-      "Route": "img/4bd06f98-2bed-4013-ade1-f5a928986e64.ya3cmlnkxv.jpg",
-      "AssetFile": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\4bd06f98-2bed-4013-ade1-f5a928986e64.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13941"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Jan 2025 13:08:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ya3cmlnkxv"
-        },
-        {
-          "Name": "label",
-          "Value": "img/4bd06f98-2bed-4013-ade1-f5a928986e64.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s="
-        }
-      ]
-    },
-    {
       "Route": "img/50a24f7c-282b-43d5-a501-2a85b5f134e2.8gin9krxxe.jpg",
       "AssetFile": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\50a24f7c-282b-43d5-a501-2a85b5f134e2.jpg",
       "Selectors": [],
@@ -4577,6 +4495,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-kl+KZxNNbWmhIutDuUo6EUa18OuZk6Z3eLVp5AhcWlQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/d232802b-68c0-4043-8f4a-c031a8e82498.jpg",
+      "AssetFile": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\d232802b-68c0-4043-8f4a-c031a8e82498.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 20:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s="
+        }
+      ]
+    },
+    {
+      "Route": "img/d232802b-68c0-4043-8f4a-c031a8e82498.ya3cmlnkxv.jpg",
+      "AssetFile": "C:\\Users\\fatma\\Desktop\\Proje\\Library_Management_System\\LibraryMS\\wwwroot\\img\\d232802b-68c0-4043-8f4a-c031a8e82498.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 20:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ya3cmlnkxv"
+        },
+        {
+          "Name": "label",
+          "Value": "img/d232802b-68c0-4043-8f4a-c031a8e82498.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ulVAKuWBkqI4nsAHgkEmOLlekc5XWPsqTT3YEJzGo5s="
         }
       ]
     },

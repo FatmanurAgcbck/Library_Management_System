@@ -127,7 +127,7 @@ namespace LibraryMS.Controllers{
 
 
         [HttpPost]
-        public async Task<IActionResult> Update(int id, Book model, IFormFile? imageFile)
+        public async Task<IActionResult> Update(Book model, IFormFile? imageFile)
         {
 
             // Dosya yükleme işlemi
